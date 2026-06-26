@@ -6,3 +6,6 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 # headers
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
+
+# 크롬 드라이버 다운로드 사이트
+https://googlechromelabs.github.io/chrome-for-testing/
