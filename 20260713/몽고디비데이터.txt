@@ -1,0 +1,6 @@
+db.col2.insertMany(
+  {name: '홍길동', age: 10, etc: [{hobby: '등산', state: '고구려'}, {likenum: [1, 2, 3, 4, 5]}]},
+  {name: '임꺽정', age: 20, etc: [{hobby: '바둑', state: '신라'}, {likenum: [2, 3, 4, 5, 6]}]},
+  {name: '장길산', age: 30, etc: [{hobby: '낚시', state: '백제'}, {likenum: [1, 2, 3, 6, 7]}]},
+  {name: '일지매', age: 40, etc: [{hobby: '없음', state: '발해'}, {likenum: [3, 6, 7, 8, 9]}]}
+)
