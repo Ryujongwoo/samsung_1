@@ -9,12 +9,17 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 6월 9일 - 3일차
+Ⅰ. 05_if.ipynb - 제어문(if) 사용법 완료  
+Ⅱ. 06_datetime.ipynb - 날짜 시간 모듈 사용법  
+Ⅲ. andOrNot.png - 논리 연산자 이미지
+
 # 2026년 6월 9일 - 2일차
 Ⅰ. 01_print.ipynb - print() 함수 사용법 완료  
 Ⅱ. 02_input.ipynb - input() 함수 사용법  
 Ⅲ. 03_string.ipynb - 문자열 사용법  
 Ⅳ. 04_stringMethod.ipynb - 문자열 관련 메소드 사용법  
-Ⅴ. 05_if.ipynb - 제어문(if) 사용법  
+Ⅴ. 05_if.ipynb - 제어문(if) 사용법 시작  
 
 # 2026년 6월 8일 - 1일차(python and algorithm 시작)
 Ⅰ. 01_print.ipynb - print() 함수 사용법 시작  
