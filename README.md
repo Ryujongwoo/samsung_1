@@ -8,3 +8,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
 
 ***
+
+# 2026년 6월 8일 - 1일차(python and algorithm 시작)
+01_print.ipynb - print() 함수 사용법  
+custom.css - jupyter nbclassic 커스텀 설정 파일
