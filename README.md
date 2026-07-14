@@ -17,5 +17,5 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 Ⅴ. 05_if.ipynb - 제어문(if) 사용법  
 
 # 2026년 6월 8일 - 1일차(python and algorithm 시작)
-Ⅰ. 01_print.ipynb - print() 함수 사용법 시작 
+Ⅰ. 01_print.ipynb - print() 함수 사용법 시작  
 Ⅱ. custom.css - jupyter nbclassic 커스텀 설정 파일
