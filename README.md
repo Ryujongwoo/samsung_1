@@ -14,7 +14,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 &nbsp;&nbsp;&nbsp;&nbsp;■ snail.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ snail2.png  
 ② 54_2Dim_MagicSquare.ipynb - 2차원 배열, 마방진 알고리즘  
-③ 55_try_except.ipynb - 오류 처리
+③ 55_try_except.ipynb - 오류 처리  
 ④ 56_textFileWrite.ipynb - 파일 출력  
 ⑤ 57_textFileRead.ipynb - 파일에서 읽기  
 
