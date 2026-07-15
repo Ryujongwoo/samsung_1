@@ -9,6 +9,19 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 6월 24일 - 13일차
+① 67_binaryTree.ipynb - 이진 트리 알고리즘 완료  
+② 68_money.ipynb - 출장비 계산 알고리즘  
+&nbsp;&nbsp;&nbsp;&nbsp;■ money_1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ money_2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ money_3.png  
+③ 69_radixSort.ipynb - 기수 정렬 알고리즘  
+&nbsp;&nbsp;&nbsp;&nbsp;■ radixSort_1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ radixSort_2.png  
+④ 01_doWellComputer.ipynb - requests와 BeautifulSoup을 이용한 크롤링  
+⑤ 02_basicEnglishSpeaking.ipynb - requests와 BeautifulSoup을 이용한 크롤링  
+⑥ 03_basicEnglishSpeaking_Function.ipynb - requests와 BeautifulSoup을 이용한 크롤링  
+
 # 2026년 6월 23일 - 12일차
 ① 64_queueTest.ipynb - 큐 모듈 사용하기  
 ② 65_recursion_Function.ipynb - 재귀 함수 사용하기  
