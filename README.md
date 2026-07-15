@@ -10,6 +10,17 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 6월 30일 - 17일차
+## 판다스
+① 04_pandas_1.ipynb - 판다스(데이터 읽기, 데이터 정보 보기, 데이터 추출, 기초 통계 계산하기)  
+&nbsp;&nbsp;&nbsp;&nbsp;■ gapminder.tsv  
+② 05_pandas_2.ipynb - 판다스(데이터프레임, 시리즈, 브로드캐스팅, 자료형 변환, 파일 저장)  
+&nbsp;&nbsp;&nbsp;&nbsp;■ scientists.csv  
+③ 06_pandas_3.ipynb - 판다스(데이터프레임 연결)  
+&nbsp;&nbsp;&nbsp;&nbsp;■ concat_1.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;■ concat_2.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;■ concat_3.csv  
+
+# 2026년 6월 30일 - 17일차
 ① 02_numpy_2.ipynb - 넘파이(파일 입출력, 배열 연산, 배열 집계, 브로드캐스팅, 배열 복사, 배열 정렬)  
 &nbsp;&nbsp;&nbsp;&nbsp;■ dot.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ numpyImage02.jpg  
