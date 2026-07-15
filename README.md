@@ -12,21 +12,21 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 # 2026년 6월 15일 - 6일차
 ① 21_baseballGame.ipynb - 야구 게임 알고리즘  
 ② 22_juminCheck.ipynb - 주민등록번호 유효성 검사 알고리즘  
-&nbsp;&nbsp;&nbsp;&nbsp;■ juminCheck.png - 주민등록번호 유효성 검사 알고리즘 이미지  
-&nbsp;&nbsp;&nbsp;&nbsp;■ juminCheck2.png - 주민등록번호 유효성 검사 알고리즘 이미지  
-&nbsp;&nbsp;&nbsp;&nbsp;■ juminCheck3.png - 주민등록번호 유효성 검사 알고리즘 이미지  
+&nbsp;&nbsp;&nbsp;&nbsp;■ juminCheck.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ juminCheck2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ juminCheck3.png  
 ③ 23_fibonacci.ipynb - 피보나치 수열 알고리즘  
-&nbsp;&nbsp;&nbsp;&nbsp;■ fibonacci.png - 피보나치 수열 알고리즘 이미지  
-&nbsp;&nbsp;&nbsp;&nbsp;■ fibonacci2.png - 피보나치 수열 알고리즘 이미지  
+&nbsp;&nbsp;&nbsp;&nbsp;■ fibonacci.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ fibonacci2.png  
 ④ 24_perfectNumber.ipynb - 완전수 알고리즘  
-&nbsp;&nbsp;&nbsp;&nbsp;■ perfectNumber.png - 완전수 알고리즘 이미지  
+&nbsp;&nbsp;&nbsp;&nbsp;■ perfectNumber.png  
 ⑤ 25_euclid.ipynb - 유클리드호제법을 이용한 최대공약수, 최소공배수 계산 알고리즘  
-&nbsp;&nbsp;&nbsp;&nbsp;■ euclid.png - 유클리드호제법을 이용한 최대공약수, 최소공배수 계산 알고리즘 이미지  
-&nbsp;&nbsp;&nbsp;&nbsp;■ euclid2.png - 유클리드호제법을 이용한 최대공약수, 최소공배수 계산 알고리즘 이미지  
+&nbsp;&nbsp;&nbsp;&nbsp;■ euclid.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ euclid2.png  
 ⑥ 26_soinsoo.ipynb - 소인수 분해 알고리즘  
-&nbsp;&nbsp;&nbsp;&nbsp;■ soinsoo.png - 소인수 분해 알고리즘 이미지  
-&nbsp;&nbsp;&nbsp;&nbsp;■ soinsoo2.png - 소인수 분해 알고리즘 이미지  
-&nbsp;&nbsp;&nbsp;&nbsp;■ soinsoo3.png - 소인수 분해 알고리즘 이미지  
+&nbsp;&nbsp;&nbsp;&nbsp;■ soinsoo.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ soinsoo2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ soinsoo3.png  
 
 # 2026년 6월 12일 - 5일차
 ① 14_lottoNumber_set.ipynb - set을 사용한 로또 1등 번호 생성 알고리즘  
