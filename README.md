@@ -11,11 +11,11 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 # 2026년 6월 22일 - 11일차
 ① 58_class.ipynb - 클래스 만들기  
-59_class2.ipynb - 클래스를 이용한 원의 둘레와 너비 계산하기  
-② 60_class_Inheritance.ipynb - 클래스 상속  
-③ 61_stack.ipynb - 스택 알고리즘  
-④ 62_stackTest.ipynb - 스택 모듈 사용하기  
-⑤ 63_queue.ipynb - 큐 알고리즘  
+② 59_class2.ipynb - 클래스를 이용한 원의 둘레와 너비 계산하기  
+③ 60_class_Inheritance.ipynb - 클래스 상속  
+④ 61_stack.ipynb - 스택 알고리즘  
+⑤ 62_stackTest.ipynb - 스택 모듈 사용하기  
+⑥ 63_queue.ipynb - 큐 알고리즘  
 
 # 2026년 6월 19일 - 10일차
 ① 53_2Dim_Snail.ipynb - 2차원 배열, 달팽이 채우기 알고리즘  
