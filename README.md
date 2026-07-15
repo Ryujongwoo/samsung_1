@@ -9,6 +9,18 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 6월 16일 - 7일차
+① 26_soinsoo.ipynb - 소인수 분해 알고리즘 완료  
+② 27_convert.ipynb - 진법 변환 알고리즘  
+&nbsp;&nbsp;&nbsp;&nbsp;■ convert.png  
+③ 28_stdDev.ipynb - 최대값과 최소값을 제외한 표준편차 계산 알고리즘  
+&nbsp;&nbsp;&nbsp;&nbsp;■ stdDev.png  
+④ 29_ranking.ipynb - 석차 계산 알고리즘  
+⑤ 30_function_1.ipynb - 함수 기본 사용방법  
+⑥ 31_function_2.ipynb - 처리할 데이터가 없는 함수 및 결과값이 없는 함수 사용방법  
+⑦ 32_function_3.ipynb - 함수로 전달할 인수 지정방법  
+⑧ 33_function_4.ipynb - 디폴트 인수를 사용하는 함수 사용방법  
+
 # 2026년 6월 15일 - 6일차
 ① 21_baseballGame.ipynb - 야구 게임 알고리즘  
 ② 22_juminCheck.ipynb - 주민등록번호 유효성 검사 알고리즘  
@@ -23,7 +35,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ⑤ 25_euclid.ipynb - 유클리드호제법을 이용한 최대공약수, 최소공배수 계산 알고리즘  
 &nbsp;&nbsp;&nbsp;&nbsp;■ euclid.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ euclid2.png  
-⑥ 26_soinsoo.ipynb - 소인수 분해 알고리즘  
+⑥ 26_soinsoo.ipynb - 소인수 분해 알고리즘 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ soinsoo.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ soinsoo2.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ soinsoo3.png  
