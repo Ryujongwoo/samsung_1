@@ -9,6 +9,15 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 6월 29일 - 16일차(크롤링 끝, 데이터 분석 시작)
+① 14_autoCrawling_1_네이버웹툰베댓_1건_전체읽기.ipynb - selenium을 이용한 네이버 웹툰 베댓 1건 동적 크롤링  
+② 15_autoCrawling_2_네이버웹툰베댓답글_1건읽기.ipynb - selenium을 이용한 네이버 웹툰 베댓 답글 1건 동적 크롤링  
+③ 16_autoCrawling_3_네이버웹툰베댓답글_전체읽기.ipynb - selenium을 이용한 네이버 웹툰 베댓 답글 전체 동적 크롤링  
+17_autoCrawling_4_네이버웹툰댓글_전체읽기.ipynb - selenium을 이용한 네이버 웹툰 댓글 전체 동적 크롤링  
+## 넘파이
+④ 01_numpy_1.ipynb - 넘파이(배열 만들기, 상태 검사)  
+&nbsp;&nbsp;&nbsp;&nbsp;■ numpyImage01.jpg
+
 # 2026년 6월 26일 - 15일차
 ① 08_nateRealtimeIssueKeyword.ipynb - requests와 BeautifulSoup을 이용한 네이트 실시간 이슈 크롤링  
 ② 09_nateRealtimeIssueKeyword_Ajax.ipynb - requests를 이용한 네이트 실시간 이슈 크롤링  
