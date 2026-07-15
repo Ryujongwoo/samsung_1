@@ -9,6 +9,12 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 6월 25일 - 14일차
+① 04_basicEnglishSpeaking_Class.ipynb - requests와 BeautifulSoup을 이용한 크롤링  
+② 05_bugsTOP100.ipynb - requests와 BeautifulSoup을 이용한 벅스 뮤직 크롤링  
+③ 06_melonTOP100.ipynb - requests와 BeautifulSoup을 이용한 멜론 뮤직 크롤링  
+④ 07_genieTOP200.ipynb - requests와 BeautifulSoup을 이용한 지니 뮤직 크롤링  
+
 # 2026년 6월 24일 - 13일차
 ① 67_binaryTree.ipynb - 이진 트리 알고리즘 완료  
 ② 68_money.ipynb - 출장비 계산 알고리즘  
