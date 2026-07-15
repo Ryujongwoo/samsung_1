@@ -9,7 +9,16 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
-# 2026년 6월 9일 - 3일차
+# 2026년 6월 11일 - 4일차
+Ⅰ. 07_list.ipynb - 리스트 사용법  
+Ⅱ. 08_listMethod.ipynb - 리스트 메소드 사용법  
+Ⅲ. 09_tuple.ipynb - 튜플 사용법  
+Ⅳ. 10_dictionary.ipynb - 딕서너리 사용법  
+Ⅴ. 11_set.ipynb - set 사용법  
+Ⅵ. 12_while.ipynb - 제어문(while) 사용법  
+Ⅶ. 13_lottoNumber_list.ipynb - 리스트를 사용한 로또 1등 번호 생성 알고리즘
+
+# 2026년 6월 10일 - 3일차
 Ⅰ. 05_if.ipynb - 제어문(if) 사용법 완료  
 Ⅱ. 06_datetime.ipynb - 날짜 시간 모듈 사용법  
 Ⅲ. andOrNot.png - 논리 연산자 이미지
