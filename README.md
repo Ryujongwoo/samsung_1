@@ -49,7 +49,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 # 2026년 6월 10일 - 3일차
 ① 05_if.ipynb - 제어문(if) 사용법 완료  
-&nbsp;&nbsp;■ andOrNot.png - 논리 연산자 이미지
+&nbsp;&nbsp;■ andOrNot.png  
 ② 06_datetime.ipynb - 날짜 시간 모듈 사용법  
 
 # 2026년 6월 9일 - 2일차
