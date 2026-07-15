@@ -9,6 +9,14 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 6월 23일 - 12일차
+① 64_queueTest.ipynb - 큐 모듈 사용하기  
+② 65_recursion_Function.ipynb - 재귀 함수 사용하기  
+③ 66_linkedList.ipynb - 링크드 리스트 알고리즘  
+④ 67_binaryTree.ipynb - 이진 트리 알고리즘 시작  
+&nbsp;&nbsp;&nbsp;&nbsp;■ binaryTree_1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ binaryTree_2.png  
+
 # 2026년 6월 22일 - 11일차
 ① 58_class.ipynb - 클래스 만들기  
 ② 59_class2.ipynb - 클래스를 이용한 원의 둘레와 너비 계산하기  
