@@ -9,6 +9,24 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 6월 17일 - 8일차
+① 34_function_5.ipynb - 가변 인자를 사용하는 함수 사용방법  
+② 35_function_6.ipynb - 딕셔너리 형태의 인자를 전달받는 함수 사용방법  
+③ 36_function_7.ipynb - 리턴 값이 2개 이상인 것 처럼 보이는 함수 사용방법
+④ 37_function_8.ipynb - global 예약어를 사용해서 함수 외부의 변수를 사용하는 함수 사용방법
+⑤ 38_calendarModule.ipynb - 달력 알고리즘에 사용할 함수 작성하기  
+⑥ 39_calendar_1.ipynb - 만년 달력 알고리즘  
+⑦ 40_calendar_2.ipynb - 모듈 import 사용방법  
+⑧ 41_calendar_3.ipynb - import할 모듈의 별명 지정하기  
+⑨ 42_calendar_4.ipynb - 하위 폴더의 모듈을 import 시켜 사용하기  
+⑩ 43_calendar_5.ipynb - 특정 폴더의 모듈을 import 시켜 사용하기  
+⑪ 44_calendar_6.ipynb - 모듈의 특정 기능만 import 시켜 사용하기  
+⑫ 45_calendar_7.ipynb - 특정한 년, 월 또는 컴퓨터 시스템의 년, 월의 달력 출력 알고리즘  
+⑬ 46_selectionSort.ipynb - 선택 정렬 알고리즘  
+&nbsp;&nbsp;&nbsp;&nbsp;■ selectionSort1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ selectionSort2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ selectionSort3.png
+
 # 2026년 6월 16일 - 7일차
 ① 26_soinsoo.ipynb - 소인수 분해 알고리즘 완료  
 ② 27_convert.ipynb - 진법 변환 알고리즘  
