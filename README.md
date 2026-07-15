@@ -9,6 +9,15 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 6월 19일 - 10일차
+① 53_2Dim_Snail.ipynb - 2차원 배열, 달팽이 채우기 알고리즘  
+&nbsp;&nbsp;&nbsp;&nbsp;■ snail.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ snail2.png  
+② 54_2Dim_MagicSquare.ipynb - 2차원 배열, 마방진 알고리즘  
+③ 55_try_except.ipynb - 오류 처리
+④ 56_textFileWrite.ipynb - 파일 출력  
+⑤ 57_textFileRead.ipynb - 파일에서 읽기  
+
 # 2026년 6월 18일 - 9일차
 ① 46_selectionSort.ipynb - 선택 정렬 알고리즘을 모듈화 하기 위해 함수로 구성하기  
 ② 47_selectionSort_2.ipynb - 선택 정렬 모듈 사용하기  
