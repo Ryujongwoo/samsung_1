@@ -9,6 +9,15 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 6월 12일 - 5일차
+① 14_lottoNumber_set.ipynb - set을 사용한 로또 1등 번호 생성 알고리즘  
+② 15_for1.ipynb - 제어문(for) 사용법, range() 함수 사용  
+③ 16_for2.ipynb - 제어문(for) 사용법, 리스트, 튜플, 딕셔너리, set 사용  
+④ 17_lottoNumber_deck.ipynb - 섞기 알고리즘을 사용한 로또 1등 번호 생성 알고리즘  
+⑤ 18_powerball.ipynb - 섞기 알고리즘을 사용한 미국 복권(powerball) 1등 번호 생성 알고리즘  
+⑥ 19_lottoNumber.ipynb - 금액에 따른 로또 번호 생성 알고리즘  
+⑦ 20_cardShuffle.ipynb - 카드 섞기 알고리즘
+
 # 2026년 6월 11일 - 4일차
 ① 07_list.ipynb - 리스트 사용법  
 ② 08_listMethod.ipynb - 리스트 메소드 사용법  
