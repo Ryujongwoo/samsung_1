@@ -10,21 +10,21 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 6월 18일 - 9일차
-46_selectionSort.ipynb - 선택 정렬 알고리즘을 모듈화 하기 위해 함수로 구성하기  
-47_selectionSort_2.ipynb - 선택 정렬 모듈 사용하기  
-48_ranking_2.ipynb - 선택 정렬 알고리즘을 이용한 석차 계산 알고리즘  
+① 46_selectionSort.ipynb - 선택 정렬 알고리즘을 모듈화 하기 위해 함수로 구성하기  
+② 47_selectionSort_2.ipynb - 선택 정렬 모듈 사용하기  
+③ 48_ranking_2.ipynb - 선택 정렬 알고리즘을 이용한 석차 계산 알고리즘  
 &nbsp;&nbsp;&nbsp;&nbsp;■ ranking.png  
-49_bubbleSort.ipynb - 버블 정렬 알고리즘  
+④ 49_bubbleSort.ipynb - 버블 정렬 알고리즘  
 &nbsp;&nbsp;&nbsp;&nbsp;■ bubbleSort.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ bubbleSort2.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ bubbleSort3.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ bubbleSort4.png  
-50_bubbleSort_EarlyStop.ipynb - 버블 정렬 조기 종료 알고리즘  
+⑤ 50_bubbleSort_EarlyStop.ipynb - 버블 정렬 조기 종료 알고리즘  
 &nbsp;&nbsp;&nbsp;&nbsp;■ bubbleSort5.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ bubbleSort6.png  
-51_insertionSort.ipynb - 삽입 정렬 알고리즘  
+⑥ 51_insertionSort.ipynb - 삽입 정렬 알고리즘  
 &nbsp;&nbsp;&nbsp;&nbsp;■ insertionSort.png  
-52_2Dim_zigzag.ipynb - 2차원 배열, 지그재그 채우기 알고리즘  
+⑦ 52_2Dim_zigzag.ipynb - 2차원 배열, 지그재그 채우기 알고리즘  
 &nbsp;&nbsp;&nbsp;&nbsp;■ 2Dim_Zigzag.png
 
 # 2026년 6월 17일 - 8일차
