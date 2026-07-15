@@ -9,6 +9,19 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 6월 30일 - 17일차
+① 02_numpy_2.ipynb - 넘파이(파일 입출력, 배열 연산, 배열 집계, 브로드캐스팅, 배열 복사, 배열 정렬)  
+&nbsp;&nbsp;&nbsp;&nbsp;■ dot.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ numpyImage02.jpg  
+&nbsp;&nbsp;&nbsp;&nbsp;■ numpyImage03.jpg  
+&nbsp;&nbsp;&nbsp;&nbsp;■ numpyImage04.jpg  
+&nbsp;&nbsp;&nbsp;&nbsp;■ numpyImage05.jpg  
+② 03_numpy_3.ipynb - 넘파이(인덱싱, 슬라이싱, 불린 인덱싱, 배열 변환, 배열 결합, 배열 분리)  
+&nbsp;&nbsp;&nbsp;&nbsp;■ numpyImage06.jpg  
+&nbsp;&nbsp;&nbsp;&nbsp;■ numpyImage07.jpg  
+&nbsp;&nbsp;&nbsp;&nbsp;■ numpyImage08.jpg  
+&nbsp;&nbsp;&nbsp;&nbsp;■ Seattle2014.csv
+
 # 2026년 6월 29일 - 16일차(크롤링 끝, 데이터 분석 시작)
 ① 14_autoCrawling_1_네이버웹툰베댓_1건_전체읽기.ipynb - selenium을 이용한 네이버 웹툰 베댓 1건 동적 크롤링  
 ② 15_autoCrawling_2_네이버웹툰베댓답글_1건읽기.ipynb - selenium을 이용한 네이버 웹툰 베댓 답글 1건 동적 크롤링  
