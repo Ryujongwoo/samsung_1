@@ -17,17 +17,17 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ⑤ 25_euclid.ipynb - 유클리드호제법을 이용한 최대공약수, 최소공배수 계산 알고리즘  
 ⑥ 26_soinsoo.ipynb - 소인수 분해 알고리즘  
 ## 이미지 파일
-euclid.png - 유클리드호제법을 이용한 최대공약수, 최소공배수 계산 알고리즘 이미지  
-euclid2.png - 유클리드호제법을 이용한 최대공약수, 최소공배수 계산 알고리즘 이미지  
-fibonacci.png - 피보나치 수열 알고리즘 이미지  
-fibonacci2.png - 피보나치 수열 알고리즘 이미지  
-juminCheck.png - 주민등록번호 유효성 검사 알고리즘 이미지  
-juminCheck2.png - 주민등록번호 유효성 검사 알고리즘 이미지  
-juminCheck3.png - 주민등록번호 유효성 검사 알고리즘 이미지  
-perfectNumber.png - 완전수 알고리즘 이미지  
-soinsoo.png - 소인수 분해 알고리즘 이미지  
-soinsoo2.png - 소인수 분해 알고리즘 이미지  
-soinsoo3.png - 소인수 분해 알고리즘 이미지  
+■ euclid.png - 유클리드호제법을 이용한 최대공약수, 최소공배수 계산 알고리즘 이미지  
+■ euclid2.png - 유클리드호제법을 이용한 최대공약수, 최소공배수 계산 알고리즘 이미지  
+■ fibonacci.png - 피보나치 수열 알고리즘 이미지  
+■ fibonacci2.png - 피보나치 수열 알고리즘 이미지  
+■ juminCheck.png - 주민등록번호 유효성 검사 알고리즘 이미지  
+■ juminCheck2.png - 주민등록번호 유효성 검사 알고리즘 이미지  
+■ juminCheck3.png - 주민등록번호 유효성 검사 알고리즘 이미지  
+■ perfectNumber.png - 완전수 알고리즘 이미지  
+■ soinsoo.png - 소인수 분해 알고리즘 이미지  
+■ soinsoo2.png - 소인수 분해 알고리즘 이미지  
+■ soinsoo3.png - 소인수 분해 알고리즘 이미지  
 
 # 2026년 6월 12일 - 5일차
 ① 14_lottoNumber_set.ipynb - set을 사용한 로또 1등 번호 생성 알고리즘  
