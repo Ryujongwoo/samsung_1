@@ -9,6 +9,16 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 6월 26일 - 15일차
+① 08_nateRealtimeIssueKeyword.ipynb - requests와 BeautifulSoup을 이용한 네이트 실시간 이슈 크롤링  
+② 09_nateRealtimeIssueKeyword_Ajax.ipynb - requests를 이용한 네이트 실시간 이슈 크롤링  
+&nbsp;&nbsp;&nbsp;&nbsp;■ nateAjax_1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ nateAjax_2.png  
+③ 10_nateRealtimeIssueKeyword_Selenium.ipynb - selenium을 이용한 네이트 실시간 이슈 동적 크롤링  
+④ 11_starbucks.ipynb - requests를 이용한 스타벅스 매장 크롤링  
+⑤ 12_folium.ipynb - 지도 시각화 라이브러리 사용법  
+⑥ 13_starbucks_Analysis.ipynb - 지도 시각화를 이용한 스타벅스 매장 분포
+
 # 2026년 6월 25일 - 14일차
 ① 04_basicEnglishSpeaking_Class.ipynb - requests와 BeautifulSoup을 이용한 크롤링  
 ② 05_bugsTOP100.ipynb - requests와 BeautifulSoup을 이용한 벅스 뮤직 크롤링  
