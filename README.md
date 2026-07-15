@@ -19,9 +19,9 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 &nbsp;&nbsp;&nbsp;&nbsp;■ bubbleSort2.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ bubbleSort3.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ bubbleSort4.png  
+50_bubbleSort_EarlyStop.ipynb - 버블 정렬 조기 종료 알고리즘  
 &nbsp;&nbsp;&nbsp;&nbsp;■ bubbleSort5.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ bubbleSort6.png  
-50_bubbleSort_EarlyStop.ipynb - 버블 정렬 조기 종료 알고리즘  
 51_insertionSort.ipynb - 삽입 정렬 알고리즘  
 &nbsp;&nbsp;&nbsp;&nbsp;■ insertionSort.png  
 52_2Dim_zigzag.ipynb - 2차원 배열, 지그재그 채우기 알고리즘  
