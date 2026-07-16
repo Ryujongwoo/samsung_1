@@ -9,6 +9,21 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 7월 3일 - 20일차
+① 10_pandas_7.ipynb - 판다스(그룹 함수, 누락값을 성별 평균으로 채우기)  
+## 시각화
+② 11_matplotlib_한글깨짐_1.ipynb - matplotlib 한글깨짐 FontProperties 사용하기  
+③ 12_matplotlib_한글깨짐_2.ipynb - matplotlib 한글깨짐 전역 설정 사용하기  
+④ 13_matplotlib_한글깨짐_3.ipynb - matplotlib 한글깨짐 matplotlibrc 파일 사용하기  
+⑤ 14_matplotlib_한글깨짐_4.ipynb - matplotlib 한글깨짐 koreanize_matplotlib 라이브러리 사용하기  
+⑥ 15_anscombe.ipynb - 앤스콤 4분할 그래프 이해하기  
+⑦ 16_matplotlib_seaborn.ipynb - matplotlib, seaborn 라이브러리 샘플 예제  
+⑧ 17_wordcloud.ipynb - 워드 클라우드 사용하기  
+&nbsp;&nbsp;&nbsp;&nbsp;■ alice.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;■ alice_mask.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ matplotlib_seaborn.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;■ wordData.txt  
+
 # 2026년 7월 2일 - 19일차
 ① 06_pandas_3.ipynb - 판다스(데이터프레임 연결, 추가, merge)  
 &nbsp;&nbsp;&nbsp;&nbsp;■ survey_person.csv  
@@ -19,7 +34,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 &nbsp;&nbsp;&nbsp;&nbsp;■ pew.csv  
 &nbsp;&nbsp;&nbsp;&nbsp;■ country_timeseries.csv  
 ③ 08_pandas_5.ipynb - 판다스(melt)  
-④ 09_pandas_6.ipynb - 판다스(성별 평균을 이용한 누락값 처리)
+④ 09_pandas_6.ipynb - 판다스(자료형 변경하기, 잘못된 데이터 처리하기)
 
 # 2026년 7월 1일 - 18일차
 ## 판다스
