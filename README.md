@@ -8,6 +8,13 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
 
 ***
+
+# 2026년 7월 15일 - 28일차(mongodb 끝, 네이버 openAPI를 이용한 검색)
+① 2_mongodb_스타벅스구군.ipynb - 파이썬에서 mongodb 사용하기  
+② 3_mongodb_스타벅스매장.ipynb - 파이썬에서 mongodb 사용하기  
+③ 1_naver_OpenAPI_Search.ipynb - openAPI를 이용해서 검색하기  
+검색_naver_OpenAPI_배포용.hwp
+
 # 2026년 7월 14일 - 27일차
 ① 07_mongodb_도큐먼트_배열_수정.hwp  
 ② 08_mongodb_도큐먼트_삭제_트랜잭션_세션.hwp  
