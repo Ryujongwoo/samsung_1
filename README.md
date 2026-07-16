@@ -9,7 +9,16 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
-# 2026년 7월 10일 - 25일차
+# 2026년 7월 13일 - 26일차(mongodb 시작)
+① 01_mongodb_다운로드_설치.hwp  
+② 02_mongodb_데이터베이스_컬렉션_도큐먼트확인_데이터입력.hwp  
+③ 03_mongodb_컬렉션_수정_삭제_상태확인_capped_크기설정.hwp  
+④ 04_mongodb_다중입력_검색.hwp  
+⑤ 05_mongodb_cousor.hwp  
+⑥ 06_mongodb_도큐먼트_교체_수정.hwp  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 몽고디비데이터.txt
+
+# 2026년 7월 10일 - 25일차(데이터 분석 끝)
 ① 23_data_analysis_5.ipynb - 서울시 공무원 업무추진비 데이터 분석하기  
 &nbsp;&nbsp;&nbsp;&nbsp;■ raw.csv
 
