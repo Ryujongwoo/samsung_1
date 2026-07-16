@@ -9,6 +9,10 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 7월 10일 - 25일차
+① 23_data_analysis_5.ipynb - 서울시 공무원 업무추진비 데이터 분석하기  
+&nbsp;&nbsp;&nbsp;&nbsp;■ raw.csv
+
 # 2026년 7월 9일 - 24일차
 ① 22_data_analysis_4.ipynb - 따릉이 스테이션 위치 데이터 분석하기. geocode 사용하기  
 &nbsp;&nbsp;&nbsp;&nbsp;■ bike_20240508.csv  
