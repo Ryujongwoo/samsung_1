@@ -9,6 +9,18 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 7월 2일 - 19일차
+① 06_pandas_3.ipynb - 판다스(데이터프레임 연결, 추가, merge)  
+&nbsp;&nbsp;&nbsp;&nbsp;■ survey_person.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;■ survey_site.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;■ survey_survey.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;■ survey_visited.csv  
+② 07_pandas_4.ipynb - 판다스(누락값 처리)  
+&nbsp;&nbsp;&nbsp;&nbsp;■ pew.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;■ country_timeseries.csv  
+③ 08_pandas_5.ipynb - 판다스(melt)  
+④ 09_pandas_6.ipynb - 판다스(성별 평균을 이용한 누락값 처리)
+
 # 2026년 7월 1일 - 18일차
 ## 판다스
 ① 04_pandas_1.ipynb - 판다스(데이터 읽기, 데이터 정보 보기, 데이터 추출, 기초 통계 계산하기)  
