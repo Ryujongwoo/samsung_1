@@ -9,6 +9,12 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 7월 7일 - 22일차
+① 19_data_analysis_1.ipynb - 민간아파트 분양가격 동향 데이터 분석하기 완료  
+② 20_data_analysis_2.ipynb - 소상공인 시장 진흥공단 데이터 분석하기  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 소상공인시장진흥공단1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 소상공인시장진흥공단2.png
+
 # 2026년 7월 6일 - 21일차
 ① 17_wordcloud.ipynb - 워드 클라우드 사용하기 완료  
 &nbsp;&nbsp;&nbsp;&nbsp;■ alice_color.png  
@@ -18,6 +24,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 &nbsp;&nbsp;&nbsp;&nbsp;■ muk_01.txt  
 &nbsp;&nbsp;&nbsp;&nbsp;■ stormtrooper_mask.png  
 ② 18_konlpy.ipynb - 형태소 분석 사용하기  
+## 데이터 분석
 ④ 19_data_analysis_1.ipynb - 민간아파트 분양가격 동향 데이터 분석하기 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ 민간아파트1.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ 민간아파트2.png
