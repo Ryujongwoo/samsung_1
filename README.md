@@ -9,6 +9,15 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 7월 16일 - 29일차(머신러닝 & 딥러닝 시작)
+① 01_tensorflow_상수_변수_수식.ipynb - tensorflow 1.x 버전의 상수, 변수, 수식 사용하기  
+② 02_tensorflow_플레이스홀더.ipynb - tensorflow 1.x 버전의 플레이스홀더 사용하기  
+③ 03_선형회귀(Linear_Regression).ipynb - 선형회귀  
+④ 04_가중치_바이어스.ipynb - 가중치와 바이어스를 라이브러리를 사용하지 않고 계산하기  
+⑤ 05_평균제곱근오차(RMSE).ipynb - 평균 제곱근 오차를 라이브러리를 사용하지 않고 계산하기  
+⑥ 06_경사하강법(GradientDescent).ipynb - 경사하강법을 이용한 가중치, 바이어스, 평균 제곱은 오차 계산하기  
+&nbsp;&nbsp;&nbsp;&nbsp;■ gradient_descent.png
+
 # 2026년 7월 15일 - 28일차(mongodb 끝, 네이버 openAPI를 이용한 검색)
 ① 2_mongodb_스타벅스구군.ipynb - 파이썬에서 mongodb 사용하기  
 ② 3_mongodb_스타벅스매장.ipynb - 파이썬에서 mongodb 사용하기  
