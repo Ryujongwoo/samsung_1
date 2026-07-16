@@ -9,6 +9,13 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 7월 9일 - 24일차
+① 22_data_analysis_4.ipynb - 따릉이 스테이션 위치 데이터 분석하기. geocode 사용하기  
+&nbsp;&nbsp;&nbsp;&nbsp;■ bike_20240508.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;■ bike_20240508_ok.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;■ bike_20260709.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;■ bike_20260709_ok.csv
+
 # 2026년 7월 8일 - 23일차
 ① 21_data_analysis_3.ipynb - 전국 도시 공원정보 표준 데이터 분석하기  
 &nbsp;&nbsp;&nbsp;&nbsp;■ 전국도시공원정보표준데이터1.png  
