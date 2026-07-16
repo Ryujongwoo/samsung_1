@@ -9,6 +9,19 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 7월 6일 - 21일차
+① 17_wordcloud.ipynb - 워드 클라우드 사용하기 완료  
+&nbsp;&nbsp;&nbsp;&nbsp;■ alice_color.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ ebook.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;■ korea_mask.jpg  
+&nbsp;&nbsp;&nbsp;&nbsp;■ mask.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ muk_01.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;■ stormtrooper_mask.png  
+② 18_konlpy.ipynb - 형태소 분석 사용하기  
+④ 19_data_analysis_1.ipynb - 민간아파트 분양가격 동향 데이터 분석하기 시작  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 민간아파트1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 민간아파트2.png
+
 # 2026년 7월 3일 - 20일차
 ① 10_pandas_7.ipynb - 판다스(그룹 함수, 누락값을 성별 평균으로 채우기)  
 ## 시각화
@@ -18,7 +31,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ⑤ 14_matplotlib_한글깨짐_4.ipynb - matplotlib 한글깨짐 koreanize_matplotlib 라이브러리 사용하기  
 ⑥ 15_anscombe.ipynb - 앤스콤 4분할 그래프 이해하기  
 ⑦ 16_matplotlib_seaborn.ipynb - matplotlib, seaborn 라이브러리 샘플 예제  
-⑧ 17_wordcloud.ipynb - 워드 클라우드 사용하기  
+⑧ 17_wordcloud.ipynb - 워드 클라우드 사용하기 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ alice.txt  
 &nbsp;&nbsp;&nbsp;&nbsp;■ alice_mask.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ matplotlib_seaborn.ipynb  
