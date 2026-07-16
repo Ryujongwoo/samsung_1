@@ -9,6 +9,12 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 7월 8일 - 23일차
+① 21_data_analysis_3.ipynb - 전국 도시 공원정보 표준 체이터 분석하기  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 전국도시공원정보표준데이터1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 전국도시공원정보표준데이터2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 전국도시공원정보표준데이터3.png  
+
 # 2026년 7월 7일 - 22일차
 ① 19_data_analysis_1.ipynb - 민간아파트 분양가격 동향 데이터 분석하기 완료  
 ② 20_data_analysis_2.ipynb - 소상공인 시장 진흥공단 데이터 분석하기  
