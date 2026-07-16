@@ -8,6 +8,12 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
 
 ***
+# 2026년 7월 14일 - 27일차
+① 07_mongodb_도큐먼트_배열_수정.hwp
+② 08_mongodb_도큐먼트_삭제_트랜잭션_세션.hwp
+③ 09_mongodb_관계연산자_문자열_배열검색.hwp
+④ 10_mongodb_논리연산자_인덱스설정.hwp
+⑤ 1_mongodb_스타벅스시도.ipynb - 파이썬에서 mongodb 사용하기
 
 # 2026년 7월 13일 - 26일차(mongodb 시작)
 ① 01_mongodb_다운로드_설치.hwp  
