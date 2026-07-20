@@ -9,6 +9,21 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 7월 20일 - 30일차
+① 07_다중선형회귀(Multi_Linear_Regression).ipynb - 다중 선형 회귀  
+② 08_Optimizer_경사하강법_모멘텀.ipynb - 경사하강법 알고리즘 시각화  
+&nbsp;&nbsp;&nbsp;&nbsp;■ differential1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ differential2.png  
+③ 09_로지스틱회귀(Logistic_Regression).ipynb - 로지스틱 회귀  
+&nbsp;&nbsp;&nbsp;&nbsp;■ sigmoid.png  
+④ 10_다중로지스틱회귀(Multi_Logistic_Regression).ipynb - 다중 로지스틱 회귀  
+⑤ 11_군집화(Clustering).ipynb - 군집화  
+&nbsp;&nbsp;&nbsp;&nbsp;■ Clustering1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ Clustering2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ Clustering3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ cluster.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;■ palette.png  
+
 # 2026년 7월 16일 - 29일차(머신러닝 & 딥러닝 시작)
 ① 01_tensorflow_상수_변수_수식.ipynb - tensorflow 1.x 버전의 상수, 변수, 수식 사용하기  
 ② 02_tensorflow_플레이스홀더.ipynb - tensorflow 1.x 버전의 플레이스홀더 사용하기  
