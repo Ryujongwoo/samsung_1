@@ -11,7 +11,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 # 2026년 7월 21일 - 31일차
 ① 12_기상정보에_따른_농산물_가격_예측하기(다중선형회귀).ipynb - 농산물 가격 예측 다중 선형 회귀  
-&nbsp;&nbsp;&nbsp;&nbsp;■ price_data.csv
+&nbsp;&nbsp;&nbsp;&nbsp;■ price_data.csv  
 ② 13_배추_모델을_불러와서_사용하기.ipynb - 학습된 모델 불러와 적용하기  
 ③ 14_server.ipynb - 학습된 모델 web으로 적용하기  
 &nbsp;&nbsp;&nbsp;&nbsp;■ web.zip  
