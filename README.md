@@ -118,7 +118,6 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ⑧ 17_wordcloud.ipynb - 워드 클라우드 사용하기 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ alice.txt  
 &nbsp;&nbsp;&nbsp;&nbsp;■ alice_mask.png  
-&nbsp;&nbsp;&nbsp;&nbsp;■ matplotlib_seaborn.ipynb  
 &nbsp;&nbsp;&nbsp;&nbsp;■ wordData.txt  
 
 # 2026년 7월 2일 - 19일차
