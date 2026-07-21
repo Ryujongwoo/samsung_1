@@ -15,7 +15,10 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ② 13_배추_모델을_불러와서_사용하기.ipynb - 학습된 모델 불러와 적용하기  
 ③ 14_server.ipynb - 학습된 모델 web으로 적용하기  
 &nbsp;&nbsp;&nbsp;&nbsp;■ web.zip  
-&nbsp;&nbsp;&nbsp;&nbsp;■ basketball_stat.csv
+&nbsp;&nbsp;&nbsp;&nbsp;■ basketball_stat.csv  
+## 사이킷런을 사용하는 머신러닝
+④ 15_kNN(k_Nearest_Neighbors).ipynb - 최근접 이웃법 알고리즘  
+&nbsp;&nbsp;&nbsp;&nbsp;■ k-fold.png
 
 # 2026년 7월 20일 - 30일차
 ① 07_다중선형회귀(Multi_Linear_Regression).ipynb - 다중 선형 회귀  
