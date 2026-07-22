@@ -8,10 +8,12 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
 
 ***
+# 2026년 7월 23일 - 33일차
+
 
 # 2026년 7월 22일 - 32일차
 ① 16_SVM(Support_Vector_Machine).ipynb - 서포트 벡터 머신  
-② 17_의사결정트리(Decision_Tree).ipynb - 의사결정 트리  
+② 17_의사결정트리(Decision_Tree).ipynb - 의사결정 트리 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ DecisionTree.txt  
 &nbsp;&nbsp;&nbsp;&nbsp;■ giniIndex.png
 
