@@ -10,7 +10,10 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 7월 22일 - 32일차
-
+① 16_SVM(Support_Vector_Machine).ipynb - 서포트 벡터 머신  
+② 17_의사결정트리(Decision_Tree).ipynb - 의사결정 트리  
+&nbsp;&nbsp;&nbsp;&nbsp;■ DecisionTree.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;■ giniIndex.png
 
 # 2026년 7월 21일 - 31일차
 ① 12_기상정보에_따른_농산물_가격_예측하기(다중선형회귀).ipynb - 농산물 가격 예측 다중 선형 회귀  
