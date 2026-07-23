@@ -9,7 +9,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 # 2026년 7월 23일 - 33일차
-
+① 17_의사결정트리(Decision_Tree).ipynb - 의사결정 트리 종료  
 
 # 2026년 7월 22일 - 32일차
 ① 16_SVM(Support_Vector_Machine).ipynb - 서포트 벡터 머신  
