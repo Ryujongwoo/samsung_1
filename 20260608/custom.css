@@ -31,3 +31,11 @@ div > p {
 	font-weight: bold;
 	color: red;	
 }
+
+#notebook-container code {
+	font-family: D2Coding;
+	font-size: 16pt;
+	line-height: 140%; 
+	font-weight: bold;
+	color: #4F21CC;
+}
