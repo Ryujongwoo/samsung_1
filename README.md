@@ -12,9 +12,9 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ① 17_의사결정트리(Decision_Tree).ipynb - 의사결정 트리 종료  
 ② 18_가우시안_나이브_베이즈(Gaussian_Naive_Bayes).ipynb - 가우시안 나이브 베이즈  
 ③ 19_베르누이_나이브_베이즈(Bernoulli_Naive_Bayes).ipynb - 베르누이 나이브 베이즈  
-&nbsp;&nbsp;&nbsp;&nbsp;■ naivebayes1.png
-&nbsp;&nbsp;&nbsp;&nbsp;■ naivebayes2.png
-&nbsp;&nbsp;&nbsp;&nbsp;■ naivebayes3.png
+&nbsp;&nbsp;&nbsp;&nbsp;■ naivebayes1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ naivebayes2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ naivebayes3.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ 베르누이_나이브_베이즈_스팸분류.txt
 
 
