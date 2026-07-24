@@ -8,6 +8,18 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
 
 ***
+# 2026년 7월 24일 - 34일차
+① 20_다항분포_나이브_베이즈(Multinomial_Naive_Bayes).ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 다항분포_나이브_베이즈_영화리뷰.txt  
+② 21_앙상블(Ensemble)_Random_Forest.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;■ bootstrap.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ aggregating1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ aggregating2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ aggregating3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ boosting1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ boosting2.png  
+③ 22_앙상블(Ensemble)_Voting.ipynb  
+
 # 2026년 7월 23일 - 33일차
 ① 17_의사결정트리(Decision_Tree).ipynb - 의사결정 트리 종료  
 ② 18_가우시안_나이브_베이즈(Gaussian_Naive_Bayes).ipynb - 가우시안 나이브 베이즈  
