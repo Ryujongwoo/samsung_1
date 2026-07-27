@@ -8,17 +8,34 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
 
 ***
+# 2026년 7월 27일 - 35일차
+① 23_주성분분석(PCA)_Principal_Component_Analysis.ipynb - 주성분 분석 대학원 수업내용  
+&nbsp;&nbsp;&nbsp;&nbsp;■ pca1.png
+&nbsp;&nbsp;&nbsp;&nbsp;■ pca2.png
+&nbsp;&nbsp;&nbsp;&nbsp;■ pca3.png
+&nbsp;&nbsp;&nbsp;&nbsp;■ pca4.png
+② 24_주성분분석(PCA)2.ipynb - 주성분 분석 사이킷런 라이브러리 사용하기  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 주성분분석.txt
+&nbsp;&nbsp;&nbsp;&nbsp;■ cov.txt
+③ 25_퍼셉트론(Perceptron)_AND_OR.ipynb - 퍼셉트론 AND, OR 연산  
+&nbsp;&nbsp;&nbsp;&nbsp;■ deepLearning1.png
+&nbsp;&nbsp;&nbsp;&nbsp;■ deepLearning2.png
+&nbsp;&nbsp;&nbsp;&nbsp;■ perceptron1.png
+&nbsp;&nbsp;&nbsp;&nbsp;■ perceptron2.png
+&nbsp;&nbsp;&nbsp;&nbsp;■ perceptron3.png
+
+
 # 2026년 7월 24일 - 34일차
-① 20_다항분포_나이브_베이즈(Multinomial_Naive_Bayes).ipynb  
+① 20_다항분포_나이브_베이즈(Multinomial_Naive_Bayes).ipynb - 다항분포 나이브 베이즈  
 &nbsp;&nbsp;&nbsp;&nbsp;■ 다항분포_나이브_베이즈_영화리뷰.txt  
-② 21_앙상블(Ensemble)_Random_Forest.ipynb  
+② 21_앙상블(Ensemble)_Random_Forest.ipynb - 앙상블 랜덤 포레스트  
 &nbsp;&nbsp;&nbsp;&nbsp;■ bootstrap.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ aggregating1.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ aggregating2.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ aggregating3.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ boosting1.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ boosting2.png  
-③ 22_앙상블(Ensemble)_Voting.ipynb  
+③ 22_앙상블(Ensemble)_Voting.ipynb - 앙상블 보팅  
 
 # 2026년 7월 23일 - 33일차
 ① 17_의사결정트리(Decision_Tree).ipynb - 의사결정 트리 종료  
