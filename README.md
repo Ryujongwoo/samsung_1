@@ -10,18 +10,18 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 # 2026년 7월 27일 - 35일차
 ① 23_주성분분석(PCA)_Principal_Component_Analysis.ipynb - 주성분 분석 대학원 수업내용  
-&nbsp;&nbsp;&nbsp;&nbsp;■ pca1.png
-&nbsp;&nbsp;&nbsp;&nbsp;■ pca2.png
-&nbsp;&nbsp;&nbsp;&nbsp;■ pca3.png
-&nbsp;&nbsp;&nbsp;&nbsp;■ pca4.png
+&nbsp;&nbsp;&nbsp;&nbsp;■ pca1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ pca2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ pca3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ pca4.png  
 ② 24_주성분분석(PCA)2.ipynb - 주성분 분석 사이킷런 라이브러리 사용하기  
-&nbsp;&nbsp;&nbsp;&nbsp;■ 주성분분석.txt
-&nbsp;&nbsp;&nbsp;&nbsp;■ cov.txt
+&nbsp;&nbsp;&nbsp;&nbsp;■ 주성분분석.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;■ cov.txt  
 ③ 25_퍼셉트론(Perceptron)_AND_OR.ipynb - 퍼셉트론 AND, OR 연산  
-&nbsp;&nbsp;&nbsp;&nbsp;■ deepLearning1.png
-&nbsp;&nbsp;&nbsp;&nbsp;■ deepLearning2.png
-&nbsp;&nbsp;&nbsp;&nbsp;■ perceptron1.png
-&nbsp;&nbsp;&nbsp;&nbsp;■ perceptron2.png
+&nbsp;&nbsp;&nbsp;&nbsp;■ deepLearning1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ deepLearning2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ perceptron1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ perceptron2.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ perceptron3.png
 
 
