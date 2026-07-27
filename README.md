@@ -8,6 +8,9 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
 
 ***
+# 2026년 7월 28일 - 36일차
+
+
 # 2026년 7월 27일 - 35일차
 ① 23_주성분분석(PCA)_Principal_Component_Analysis.ipynb - 주성분 분석 대학원 수업내용  
 &nbsp;&nbsp;&nbsp;&nbsp;■ pca1.png  
