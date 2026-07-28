@@ -14,7 +14,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 &nbsp;&nbsp;&nbsp;&nbsp;■ multilayer_perceptron2.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ multilayer_perceptron3.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ multilayer_perceptron4.png  
-② 27_다층퍼셉트론(MultiLayer_Perceptron)_MNIST_손글씨.ipynb - 다층 퍼셉트론 손글씨 데이터  
+② 27_다층퍼셉트론(MultiLayer_Perceptron)_MNIST_손글씨.ipynb - 다층 퍼셉트론 손글씨 데이터 - 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ MNIST1.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ MNIST2.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ MNIST3.png  
