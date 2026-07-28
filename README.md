@@ -9,7 +9,15 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 # 2026년 7월 28일 - 36일차
-
+① 26_다층퍼셉트론(MultiLayer_Perceptron)_XOR.ipynb - 다층 퍼셉트론 XOR연산  
+&nbsp;&nbsp;&nbsp;&nbsp;■ multilayer_perceptron1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ multilayer_perceptron2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ multilayer_perceptron3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ multilayer_perceptron4.png  
+② 27_다층퍼셉트론(MultiLayer_Perceptron)_MNIST_손글씨.ipynb - 다층 퍼셉트론 손글씨 데이터  
+&nbsp;&nbsp;&nbsp;&nbsp;■ MNIST1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ MNIST2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ MNIST3.png  
 
 # 2026년 7월 27일 - 35일차
 ① 23_주성분분석(PCA)_Principal_Component_Analysis.ipynb - 주성분 분석 대학원 수업내용  
