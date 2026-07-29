@@ -8,6 +8,10 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
 
 ***
+# 2026년 7월 30일 - 38일차
+① 28_합성곱신경망(Convolutional_Neural_Network, CNN)_MNIST_손글씨.ipynb - CNN 손글씨 데이터 - 완료  
+
+
 # 2026년 7월 29일 - 37일차
 ① 27_다층퍼셉트론(MultiLayer_Perceptron)_MNIST_손글씨.ipynb - 다층 퍼셉트론 손글씨 데이터 - 완료  
 ② 28_합성곱신경망(Convolutional_Neural_Network, CNN)_MNIST_손글씨.ipynb - CNN 손글씨 데이터 - 시작  
