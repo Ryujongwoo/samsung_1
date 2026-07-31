@@ -10,7 +10,19 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 7월 31일 - 39일차
-
+① 32_장단기기억모델(Long_Short_Term_Memory, LSTM)_문장_주제분류.ipynb - LSTM 지문 읽고 카테고리 분류하기 - 완료  
+&nbsp;&nbsp;&nbsp;&nbsp;LSTM3.png  
+② 33_Auto_Encoder.ipynb - 오토 인코더  
+&nbsp;&nbsp;&nbsp;&nbsp;autoencoder.png  
+③ 34_Word2Vec.ipynb - Word To Vector  
+&nbsp;&nbsp;&nbsp;&nbsp;Word2Vec.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;skipgram1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;skipgram2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;skipgram3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;skipgram4.png  
+&nbsp;&nbsp;&nbsp;&nbsp;skipgram5.png  
+&nbsp;&nbsp;&nbsp;&nbsp;skipgram6.png  
+&nbsp;&nbsp;&nbsp;&nbsp;word2vec.png
 
 # 2026년 7월 30일 - 38일차
 ① 28_합성곱신경망(Convolutional_Neural_Network, CNN)_MNIST_손글씨.ipynb - CNN 손글씨 데이터 - 완료  
@@ -22,6 +34,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 &nbsp;&nbsp;&nbsp;&nbsp;■ LSTM2.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ LSTM3.png  
 ⑤ 32_장단기기억모델(Long_Short_Term_Memory, LSTM)_문장_주제분류.ipynb - LSTM 지문 읽고 카테고리 분류하기 - 시작  
+
 &nbsp;&nbsp;&nbsp;&nbsp;■ LSTM_,지문읽고_주제_분류하기.txt
 
 # 2026년 7월 29일 - 37일차
