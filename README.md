@@ -34,8 +34,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 &nbsp;&nbsp;&nbsp;&nbsp;■ LSTM2.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ LSTM3.png  
 ⑤ 32_장단기기억모델(Long_Short_Term_Memory, LSTM)_문장_주제분류.ipynb - LSTM 지문 읽고 카테고리 분류하기 - 시작  
-
-&nbsp;&nbsp;&nbsp;&nbsp;■ LSTM_,지문읽고_주제_분류하기.txt
+&nbsp;&nbsp;&nbsp;&nbsp;■ LSTM_지문읽고_주제_분류하기.txt
 
 # 2026년 7월 29일 - 37일차
 ① 27_다층퍼셉트론(MultiLayer_Perceptron)_MNIST_손글씨.ipynb - 다층 퍼셉트론 손글씨 데이터 - 완료  
