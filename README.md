@@ -8,6 +8,8 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
 
 ***
+# 2026년 8월 1일 - 40일차
+
 
 # 2026년 7월 31일 - 39일차
 ① 32_장단기기억모델(Long_Short_Term_Memory, LSTM)_문장_주제분류.ipynb - LSTM 지문 읽고 카테고리 분류하기 - 완료  
