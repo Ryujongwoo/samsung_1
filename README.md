@@ -8,7 +8,11 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
 
 ***
-# 2026년 8월 1일 - 40일차
+
+# 2026년 8월 4일 - 41일차
+
+
+# 2026년 8월 3일 - 40일차
 ① 35_머신러닝에_사용할_데이터.ipynb - 사이킷런 데이터 파일 받아서 csv 파일로 저장하기  
 ② 36_데이터_전처리.ipynb - 결측치 처리, 레이블 설정, 원-핫 인코딩, 스케일링  
 &nbsp;&nbsp;&nbsp;&nbsp;■ BostonHousing.csv  
