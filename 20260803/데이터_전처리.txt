@@ -1,0 +1,6 @@
+[
+    [42, 'male', 12, 'reading', 'class2'],
+    [35, 'unknown', 3, 'cooking', 'class1'],
+    [1000, 'female', 7, 'cycling', 'class3'],
+    [1000, 'unknown', 21, 'unknown', 'unknown']
+]
