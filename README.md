@@ -11,26 +11,26 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 # 2026년 8월 1일 - 40일차
 ① 35_머신러닝에_사용할_데이터.ipynb - 사이킷런 데이터 파일 받아서 csv 파일로 저장하기  
 ② 36_데이터_전처리.ipynb - 결측치 처리, 레이블 설정, 원-핫 인코딩, 스케일링  
-BostonHousing.csv  
-데이터_전처리.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;■ BostonHousing.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 데이터_전처리.txt  
 ③ 37_모델평가.ipynb - 모델 평가 하기 시작  
-머신러닝모델성능평가.hwp  
-모델평가.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 머신러닝모델성능평가.hwp  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 모델평가.txt  
 
 # 2026년 7월 31일 - 39일차
 ① 32_장단기기억모델(Long_Short_Term_Memory, LSTM)_문장_주제분류.ipynb - LSTM 지문 읽고 카테고리 분류하기 - 완료  
-&nbsp;&nbsp;&nbsp;&nbsp;LSTM3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ LSTM3.png  
 ② 33_Auto_Encoder.ipynb - 오토 인코더  
-&nbsp;&nbsp;&nbsp;&nbsp;autoencoder.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ autoencoder.png  
 ③ 34_Word2Vec.ipynb - Word To Vector  
-&nbsp;&nbsp;&nbsp;&nbsp;Word2Vec.txt  
-&nbsp;&nbsp;&nbsp;&nbsp;skipgram1.png  
-&nbsp;&nbsp;&nbsp;&nbsp;skipgram2.png  
-&nbsp;&nbsp;&nbsp;&nbsp;skipgram3.png  
-&nbsp;&nbsp;&nbsp;&nbsp;skipgram4.png  
-&nbsp;&nbsp;&nbsp;&nbsp;skipgram5.png  
-&nbsp;&nbsp;&nbsp;&nbsp;skipgram6.png  
-&nbsp;&nbsp;&nbsp;&nbsp;word2vec.png
+&nbsp;&nbsp;&nbsp;&nbsp;■ Word2Vec.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;■ skipgram1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ skipgram2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ skipgram3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ skipgram4.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ skipgram5.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ skipgram6.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ word2vec.png
 
 # 2026년 7월 30일 - 38일차
 ① 28_합성곱신경망(Convolutional_Neural_Network, CNN)_MNIST_손글씨.ipynb - CNN 손글씨 데이터 - 완료  
