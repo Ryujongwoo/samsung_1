@@ -1,0 +1,123 @@
+<table align="left" width="700">
+    <tr>
+        <td colspan="6" style="border: 1px solid;">
+            <div style="text-align: center">Total Data</div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="5" style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Test</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Validation</div>
+        </td>
+        <td rowspan="5" style="border: 1px solid;">
+            <div style="text-align: center">
+                파라미터,<br>
+                하이퍼파라미터<br>
+                설정
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Validation</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Validation</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Validation</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Validation</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Train</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="5">
+            <div>모형평가</div>
+        </td>
+        <td style="border: 1px solid;">
+            <div style="text-align: center">Test</div>
+        </td>
+    </tr>
+</table>
