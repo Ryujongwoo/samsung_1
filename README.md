@@ -15,7 +15,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ③ 42_의사결정트리.ipynb - 의사결정 트리  
 ④ 43_서포트벡터머신.ipynb - 서포트 벡터 머신  
 ⑤ 44_교차검증.ipynb - KFold, 그리드 서치, cross_validate, cross_val_score  
-&nbsp;&nbsp;&nbsp;&nbsp;■ 교차검증.txt
+&nbsp;&nbsp;&nbsp;&nbsp;■ 교차검증.txt  
 ⑥ 45_앙상블_보팅.ipynb - 앙상블(보팅)  
 ⑦ 46_앙상블_랜덤포레스트.ipynb - 앙상블(랜덤 포레스트)  
 ⑧ 47_앙상블_부스팅.ipynb - 앙상블(부스팅)  
