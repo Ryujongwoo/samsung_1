@@ -14,9 +14,9 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ② 55_군집화_병합계층클러스터링.ipynb - 병합 계층 클러스터링  
 ③ 56_군집화_가우시안혼합클러스터링.ipynb = 가우시안 혼합 클러스터링  
 ④ 57_군집화_밀도기반클러스터링.ipynb - 밀도 기반 클러스터링  
-58_딥러닝_퍼셉트론.ipynb - 퍼셉 트론 기초  
+⑤ 58_딥러닝_퍼셉트론.ipynb - 퍼셉 트론 기초  
 &nbsp;&nbsp;&nbsp;&nbsp;■ perceptron.png  
-59_딥러닝_ANN.ipynb - 인공 신경망 시작  
+⑥ 59_딥러닝_ANN.ipynb - 인공 신경망 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ ann01.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ ann02.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ ann03.png  
