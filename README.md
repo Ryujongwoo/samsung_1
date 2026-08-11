@@ -10,13 +10,16 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 8월 11일 - 46일차
-
+① 62_딥러닝_CNN.ipynb - 합성곱 신경망 완료  
+② 63_딥러닝_RNN.ipynb - 순환 신경망  
+&nbsp;&nbsp;&nbsp;&nbsp;■ rnn_1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ rnn_2.png
 
 # 2026년 8월 10일 - 45일차
 ① 59_딥러닝_ANN.ipynb - 인공 신경망  
 ② 60_딥러닝_ANN_분류신경망.ipynb - 인공 신경망을 이용한 분류 문제  
 ③ 61_딥러닝_ANN_회귀신경망.ipynb - 인공 신경망을 이용한 회귀 문제  
-④ 62_딥러닝_CNN.ipynb - 합성곱 신경망  
+④ 62_딥러닝_CNN.ipynb - 합성곱 신경망 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ cnn_1.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ cnn_2.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ cnn_3.png
