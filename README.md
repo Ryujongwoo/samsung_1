@@ -9,8 +9,18 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
-# 2026년 8월 12일 - 47일차
-
+# 2026년 8월 12일 - 47일차(머신러닝 & 딥러닝 끝)
+① 64_딥러닝_오토인코더.ipynb - 오토 인코더로 이미지 노이즈 제거하기  
+&nbsp;&nbsp;&nbsp;&nbsp;■ autoEncoder_1.png  
+## 데이터 분석 프로젝트 전 복습 예제
+② 24_카드전표분석.ipynb - 카드 사용 데이터 분석하기  
+&nbsp;&nbsp;&nbsp;&nbsp;■ card.csv  
+③ 25_핫플레이스_인구분석.ipynb - 서울 시간대별 인구 데이터 분석하기  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 서울시간대별인구데이터1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 서울시간대별인구데이터2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 서울시간대별인구데이터3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 서울시간대별인구데이터4.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 서울시간대별인구데이터5.png  
 
 # 2026년 8월 11일 - 46일차
 ① 62_딥러닝_CNN.ipynb - 합성곱 신경망 완료  
