@@ -12,8 +12,26 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
-# 2026년 8월 19일 - 51일차
-
+# 2026년 8월 19일 - 51일차(미니콘다 설치 및 가상환경 만들기)
+① 미니콘다설치_가상환경설정.ipynb - 미니콘다 설치 및 가상환경 만들기  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_01.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_02.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_03.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_04.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_05.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_06.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_07.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_08.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_09.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_10.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_11.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_12.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_13.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_14.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_15.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_16.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_17.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 미니콘다설치_가상환경설정_18.png
 
 # 2026년 8월 18일 - 50일차(NLP, 자연어 처리 시작)
 ① 28_주식시세_데이터분석.ipynb - 주식시장, 종복 정보 읽어오기 - 완료  
