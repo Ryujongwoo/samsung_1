@@ -1,3 +1,6 @@
+# 아나콘다 이전 버전을 다운로드 할 수 있는 repo 사이트
+https://repo.continuum.io/archive/.winzip/
+
 # jupyter nbclassic 화면 설정 방법  
 C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있다.  
 그 아래에 custom 이라는 이름의 폴더를 만들고, 그 아래에 custom.css 라는 파일을 복사해 넣는다.
