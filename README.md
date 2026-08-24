@@ -1,7 +1,7 @@
 # ZOOM 초대 링크 - 고정
 Zoom 회의 참가
-https://us06web.zoom.us/j/86392843147?pwd=5EZDPMbx0n3jNKIAN6fuObzpa52Mxa.1
-회의 ID: 863 9284 3147
+https://us06web.zoom.us/j/86392843147?pwd=5EZDPMbx0n3jNKIAN6fuObzpa52Mxa.1  
+회의 ID: 863 9284 3147  
 암호: 9b8tmc
 
 # 아나콘다 이전 버전을 다운로드 할 수 있는 repo 사이트
