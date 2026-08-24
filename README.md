@@ -19,7 +19,15 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 8월 24일 - 53일차(NLP, 자연어 처리 계속)
-
+① 01_단어가방_모형과_TF_IDF.ipynb - 단어 가방 모형(CountVectorizer)과 TF-IDF 사용하기 - 완료  
+② 02_연합뉴스_타이틀_주제분류.ipynb - TF-IDF를 사용해서 연합뉴스 타이틀 주제 분류 - 시작  
+&nbsp;&nbsp;&nbsp;&nbsp;■ TF-IDF.md  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 데이콘1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 데이콘2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 데이콘3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 데이콘4.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 분류과정.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 입력문장의인코딩과정.png
 
 # 2026년 8월 21일 - 52일차(NLP, 자연어 처리 계속)
 
