@@ -18,6 +18,9 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 8월 25일 - 54일차
+
+
 # 2026년 8월 24일 - 53일차(NLP, 자연어 처리 계속)
 ① 01_단어가방_모형과_TF_IDF.ipynb - 단어 가방 모형(CountVectorizer)과 TF-IDF 사용하기 - 완료  
 ② 02_연합뉴스_타이틀_주제분류.ipynb - TF-IDF를 사용해서 연합뉴스 타이틀 주제 분류 - 시작  
@@ -54,6 +57,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 # 2026년 8월 18일 - 50일차(NLP, 자연어 처리 시작)
 ① 28_주식시세_데이터분석.ipynb - 주식시장, 종복 정보 읽어오기 - 완료  
+## 자연어 처리
 ② 01_단어가방_모형과_TF_IDF.ipynb - 단어 가방 모형(CountVectorizer)과 TF-IDF 사용하기 - 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ CountVectorizer_실행하기.md  
 &nbsp;&nbsp;&nbsp;&nbsp;■ n_gram.png
