@@ -19,7 +19,11 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 8월 27일 - 56일차
-
+① 04_다산콜재단_LDA토픽모델링_LSTM.ipynb - LDA 토픽 모델링 및 시각화, LSTM 텍스트 분류 - 시작  
+&nbsp;&nbsp;&nbsp;&nbsp;■ dasan120.zip - 데이터  
+&nbsp;&nbsp;&nbsp;&nbsp;■ LDA토픽모델링시각화.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 잠재디리클레할당그림.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 패딩적용.png
 
 # 2026년 8월 26일 - 55일차
 ① 03_국민청원데이터_시각화_분류.ipynb - 국민 청원 데이터 시각화 분류 - 완성  
