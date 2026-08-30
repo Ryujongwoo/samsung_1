@@ -18,6 +18,9 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 8월 31일 - 58일차
+
+
 # 2026년 8월 28일 - 57일차
 ① 04_다산콜재단_LDA토픽모델링_LSTM.ipynb - LDA 토픽 모델링 및 시각화, LSTM 텍스트 분류 - 완료  
 &nbsp;&nbsp;&nbsp;&nbsp;■ return_sequences.png  
