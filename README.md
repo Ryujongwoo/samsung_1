@@ -21,13 +21,18 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 8월 31일 - 58일차
-
+① 05_인프런_이벤트_댓글분석.ipynb- 댓글 데이터 분석 완료  
+&nbsp;&nbsp;&nbsp;&nbsp;■ inflearn-event.csv  
+## LangChain 기초
+② 01_체인(chain)에_대한_이해.ipynb - LangChain 기초 시작  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langchain.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ llmchain.png  
 
 # 2026년 8월 28일 - 57일차
 ① 04_다산콜재단_LDA토픽모델링_LSTM.ipynb - LDA 토픽 모델링 및 시각화, LSTM 텍스트 분류 - 완료  
 &nbsp;&nbsp;&nbsp;&nbsp;■ return_sequences.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ 케라스신경망시각화.png  
-② 05_인프런_이벤트_댓글분석.ipynb - 댓글 데이터 분석  
+② 05_인프런_이벤트_댓글분석.ipynb - 댓글 데이터 분석 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ inflearn.zip - 데이터  
 
 # 2026년 8월 27일 - 56일차
