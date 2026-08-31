@@ -20,7 +20,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
-# 2026년 8월 31일 - 58일차
+# 2026년 8월 31일 - 58일차(NLP 끝, LangChain 시작)
 ① 05_인프런_이벤트_댓글분석.ipynb- 댓글 데이터 분석 완료  
 &nbsp;&nbsp;&nbsp;&nbsp;■ inflearn-event.csv  
 ## LangChain 기초
