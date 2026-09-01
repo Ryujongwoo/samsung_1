@@ -21,16 +21,16 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 9월 1일 - 59일차
-① 01_체인(chain)에_대한_이해.ipynbLangChain 기초 완료  
-② 02_프롬프트(prompt)_만들기.ipynb - 프롬프트 만들기  
-③ 03_LLM_모델구조.ipynb - 모델 구조  
-④ 04_LLM_모델튜팅.ipynb - 모델 파라미터 설정  
+① 01_LangChain_기초.ipynb - LangChain 기초 완료  
+② 02_프롬프트(Prompt)_템플릿.ipynb - 프롬프트 만들기  
+③ 03_거대언어모델_LLM(Large_Language_Model)_유형.ipynb - 모델 구조  
+④ 04_LLM_파라미터_설정.ipynb - 모델 파라미터 설정  
 
 # 2026년 8월 31일 - 58일차(NLP 끝, LangChain 시작)
 ① 05_인프런_이벤트_댓글분석.ipynb- 댓글 데이터 분석 완료  
 &nbsp;&nbsp;&nbsp;&nbsp;■ inflearn-event.csv  
 ## LangChain 기초
-② 01_체인(chain)에_대한_이해.ipynb - LangChain 기초 시작  
+② 01_LangChain_기초.ipynb - LangChain 기초 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ langchain.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ llmchain.png  
 
