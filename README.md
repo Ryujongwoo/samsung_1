@@ -21,7 +21,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 9월 2일 - 60일차(RAG 시작)
-④ 05_검색증강생성_RAG(Retrieval_Augmented_Generation)_기초.ipynb - RAG 기초  
+① 05_검색증강생성_RAG(Retrieval_Augmented_Generation)_기초.ipynb - RAG 기초  
 
 # 2026년 9월 1일 - 59일차
 ① 01_LangChain_기초.ipynb - LangChain 기초 완료  
