@@ -20,6 +20,8 @@ from langchain_classic.chains import create_retrieval_chain # 검색된 문서�
 from langchain_core.documents import Document # 랭체인 표준 데이터 도큐먼트  
 
 import gradio as gr # 챗봇 인터페이스  
+***
+<br>
 
 # 02_LangChain의_LCEL_사용하기.ipynb
 
