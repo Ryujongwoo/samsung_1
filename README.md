@@ -21,7 +21,11 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 9월 7일 - 63일차
-
+① 03_데이터처리_및_임베딩기법.ipynb - 다양한 형식의 데이터 읽기 및 임베딩 기법   
+&nbsp;&nbsp;&nbsp;&nbsp;■ kakao_chat.json  
+&nbsp;&nbsp;&nbsp;&nbsp;■ kakao_chat.jsonl  
+&nbsp;&nbsp;&nbsp;&nbsp;■ kbo_teams_2023.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;■ transformer.pdf  
 
 # 2026년 9월 4일 - 62일차
 ① 02_LangChain의_LCEL_사용하기.ipynb - LCEL 사용하기 완성  
