@@ -1,6 +1,4 @@
-***
 # 01_LangChain의_주요_RAG_컴포넌트.ipynb  
-***
  
 import warnings # 경고 메시지 무시  
 warnings.filterwarnings('ignore')  
