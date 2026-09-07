@@ -20,6 +20,9 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 9월 7일 - 63일차
+
+
 # 2026년 9월 4일 - 62일차
 ① 02_LangChain의_LCEL_사용하기.ipynb - LCEL 사용하기 완성  
 &nbsp;&nbsp;&nbsp;&nbsp;■ runnable.png
