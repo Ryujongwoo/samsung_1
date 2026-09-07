@@ -20,11 +20,8 @@ from langchain_classic.chains import create_retrieval_chain # 검색된 문서�
 from langchain_core.documents import Document # 랭체인 표준 데이터 도큐먼트  
 
 import gradio as gr # 챗봇 인터페이스  
-***
 
-***
 # 02_LangChain의_LCEL_사용하기.ipynb
-***
 
 import time # sleep() 메소드 사용하기  
 from operator import itemgetter # 딕셔너리에서 특정 key값 가져오기  
@@ -37,7 +34,7 @@ from pydantic import BaseModel, Field, validator # 파이썬의 Pydantic 사용�
 from langchain_core.runnables import RunnableParallel # 입력받은 데이터를 새 딕셔너리로 만들기  
 from langchain_core.runnables import RunnablePassthrough # 데이터를 변형없이 그대로 사용하기  
 from langchain_core.runnables import RunnableLambda # 사용자 정의 함수 실행 결과를 딕셔너리로 만들기  
-***
+
 
 
 
