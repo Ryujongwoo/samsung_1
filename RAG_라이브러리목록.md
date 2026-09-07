@@ -7,6 +7,7 @@ from tqdm import tqdm # 진행 상태바
 
 from dotenv import load_dotenv # .env 파일의 환경변수 읽기  
 from glob import glob # 패턴과 일치하는 파일 찾기  
+load_dotenv()  
 from langchain_community.document_loaders import TextLoader # 텍스트 문서 읽기  
 from langchain_text_splitters import CharacterTextSplitter # 특정 구분자를 경계로 문서 나누기  
 from langchain_openai import OpenAIEmbeddings # 임베딩 모델  
