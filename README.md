@@ -29,6 +29,8 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 # 2026년 9월 3일 - 61일차
 ① 01_LangChain의_주요_RAG_컴포넌트.ipynb - RAG 주요 컴포넌트 완료  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 리비안_KR.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;■ 테슬라_KR.txt  
 ② 02_LangChain의_LCEL_사용하기.ipynb - LCEL 사용하기 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ LLMs.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ lcel1.png  
