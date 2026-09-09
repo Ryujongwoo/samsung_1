@@ -37,8 +37,28 @@ from pydantic import BaseModel, Field, validator # 파이썬의 Pydantic 사용�
 from langchain_core.runnables import RunnableParallel # 입력받은 데이터를 새 딕셔너리로 만들기  
 from langchain_core.runnables import RunnablePassthrough # 데이터를 변형없이 그대로 사용하기  
 from langchain_core.runnables import RunnableLambda # 사용자 정의 함수 실행 결과를 딕셔너리로 만들기  
+***
+<br>
 
+# 03_데이터처리_및_임베딩기법.ipynb
 
+import numpy as np # 넘파이
+
+from langchain_community.document_loaders import PyPDFLoader # PDF 파일 읽기
+from langchain_community.document_loaders import WebBaseLoader # 웹 문서 읽기
+from langchain_community.document_loaders import JSONLoader # JSON, JSONL 파일 읽기
+from langchain_community.document_loaders import CSVLoader # CSV 파일 읽기
+
+from langchain_text_splitters import RecursiveCharacterTextSplitter # 재귀적으로 청크 분할
+import tiktoken # OpenAI의 토큰화
+from transformers import AutoTokenizer # 허깅 페이스 모델의 토크나이저 자동 불러오기
+from langchain_experimental.text_splitter import SemanticChunker # 맥락 기반 분할
+from langchain_community.utils.math import cosine_similarity # 코사인 유사도
+
+from langchain_huggingface.embeddings import HuggingFaceEmbeddings # 허깅 페이스 임베딩 모델
+from langchain_ollama import OllamaEmbeddings # 올라마 임베딩 모델
+from langdetect import detect # 언어 판별
+from langchain_core.messages import HumanMessage, AIMessage # 사용자 메시지, AI 메시지 객체
 
 
 
