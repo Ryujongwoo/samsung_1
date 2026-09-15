@@ -22,6 +22,18 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 # 2026년 9월 15일 - 69일차
 ① 04_벡터저장소_벡터검색기_검색성능평가.ipynb - 벡터 저장소에 데이터 입력, 수정, 삭제, 조회 완료  
+② 05_고급검색기법.ipynb - 랭스미스, 멀티 쿼리, 커스텀 프롬프트 시작  
+&nbsp;&nbsp;&nbsp;&nbsp;■ Advanced_Retrieval.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ query.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith4.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith5.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith6.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith7.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith8.png
+
 
 # 2026년 9월 14일 - 68일차
 ① 04_벡터저장소_벡터검색기_검색성능평가.ipynb - 벡터 저장소에 데이터 입력, 수정, 삭제, 조회 계속  
