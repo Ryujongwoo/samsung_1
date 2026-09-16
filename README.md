@@ -21,7 +21,15 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 9월 16일 - 70일차
-
+① 05_고급검색기법.ipynb - 쿼리 분해, 검색 성능 평가, 재순위화 계속  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith9.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith10.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith11.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith12.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith13.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ crossEncoderReranker1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ crossEncoderReranker2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ rerank.png  
 
 # 2026년 9월 15일 - 69일차
 ① 04_벡터저장소_벡터검색기_검색성능평가.ipynb - 벡터 저장소에 데이터 입력, 수정, 삭제, 조회 완료  
