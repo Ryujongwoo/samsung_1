@@ -2,7 +2,7 @@
 
 # AI_RAG 라이브러리 설치
 
-conda install -c conda-forge langchain_openai langchain_community langchain_chroma gradio
+conda install -c conda-forge langchain-openai langchain-community langchain-chroma gradio
 
 conda install python_dotenv  
 conda install pypdf bs4 jq tiktoken transformers langdetect langchain_experimental langchain_huggingface langchain_ollama  
