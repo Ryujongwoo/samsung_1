@@ -3,11 +3,10 @@
 # AI_RAG 라이브러리 설치
 
 conda install -c conda-forge langchain-openai langchain-community langchain-chroma gradio
-
-conda install -c conda-forge python-dotenv
-conda install -c conda-forge pypdf bs4 jq tiktoken transformers langdetect langchain-experimental langchain-huggingface langchain-ollama
-conda install -c conda-forge numpy==1.26.4
-conda install -c conda-forge faiss-cpu rank_bm25 kiwipiepy openpyxl
+conda install -c conda-forge python-dotenv  
+conda install -c conda-forge pypdf bs4 jq tiktoken transformers langdetect langchain-experimental langchain-huggingface langchain-ollama  
+conda install -c conda-forge numpy==1.26.4  
+conda install -c conda-forge faiss-cpu rank_bm25 kiwipiepy openpyxl  
 
 
 
