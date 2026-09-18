@@ -10,6 +10,7 @@ conda install -c conda-forge numpy=1.26.4 faiss-cpu python-dotenv openpyxl pypdf
 
 <img src="./시작지점없음.png" />
 
+conda install -c conda-forge nbclassic  
 conda install -c conda-forge numpy=1.26.4  
 conda install -c conda-forge faiss-cpu  
 conda install -c conda-forge python-dotenv  
