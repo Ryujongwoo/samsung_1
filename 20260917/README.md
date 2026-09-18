@@ -10,7 +10,23 @@ conda install -c conda-forge numpy=1.26.4 faiss-cpu python-dotenv openpyxl pypdf
 
 <img src="./시작지점없음.png" />
 
+conda install -c conda-forge numpy=1.26.4  
+conda install -c conda-forge faiss-cpu  
+conda install -c conda-forge python-dotenv  
+conda install -c conda-forge openpyxl  
+conda install -c conda-forge pypdf  
+conda install -c conda-forge bs4  
+conda install -c conda-forge tiktoken  
+conda install -c conda-forge transformers  
+conda install -c conda-forge langdetect  
+conda install -c conda-forge gradio  
+
+아래의 라이브러리도 추가로 설치한다.  
+conda install -c conda-forge pytorch  
+conda install -c conda-forge ipywidgets
+
+
 ## Pip 기반 패키지 및 LangChain 생태계 일괄 설치
 LangChain 핵심 패키지와 모든 LLM 제공자 패키지를 pip으로 한 번에 설치한다.
 
-pip install "langchain>=0.3.0,<0.4.0" "langchain-core>=0.3.0,<0.4.0" "langchain-community>=0.3.0,<0.4.0" "langchain-text-splitters>=0.3.0,<0.4.0" "langchain-experimental>=0.3.0,<0.4.0" "langchain-openai" "langchain-anthropic" "langchain-chroma" "langchain-huggingface" "langchain-ollama" "langchain-google-genai" "langchain-groq" "pydantic>=2.7.0,<3.0.0" "anthropic>=0.30.0" google-genai groq krag kiwipiepy rank_bm25 jq
+pip install "langchain>=0.3.0,<0.4.0" "langchain-core>=0.3.0,<0.4.0" "langchain-community>=0.3.0,<0.4.0" "langchain-text-splitters>=0.3.0,<0.4.0" "langchain-experimental>=0.3.0,<0.4.0" "langchain-openai" "langchain-anthropic" "langchain-chroma" "langchain-huggingface" "langchain-ollama" "langchain-google-genai" "langchain-groq" "pydantic>=2.7.0,<3.0.0" "anthropic>=0.30.0" google-genai groq krag kiwipiepy rank_bm25 jq sentence-transformers  
