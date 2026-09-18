@@ -23,6 +23,7 @@ conda install -c conda-forge langdetect
 conda install -c conda-forge gradio  
 
 프로그램이 요구하면 아래의 라이브러리도 추가로 설치한다.  
+conda install -c conda-forge pandas  
 conda install -c conda-forge pytorch  
 conda install -c conda-forge ipywidgets  
 conda install -c conda-forge tqdm
