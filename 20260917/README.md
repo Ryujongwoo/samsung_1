@@ -5,7 +5,10 @@
 ## Conda 기반 하드웨어/시스템 라이브러리 설치
 LangChain을 제외한 데이터 처리, 벡터 DB, 모델 관련 기초 라이브러리를 Conda로 먼저 설치한다.
 
-conda install -c conda-forge numpy=1.26.4 faiss-cpu python-dotenv openpyxl pypdf bs4 tiktoken transformers langdetect gradio
+conda install -c conda-forge numpy=1.26.4 faiss-cpu python-dotenv openpyxl pypdf bs4 tiktoken transformers langdetect gradio  
+위와 같이 한번에 설치할 때 아래와 같은 경고창이 화면에 나타나며 롤백되면 라이브러리를 한 개씩 설치한다.  
+
+<img src="./시작지점없음.png" />
 
 ## Pip 기반 패키지 및 LangChain 생태계 일괄 설치
 LangChain 핵심 패키지와 모든 LLM 제공자 패키지를 pip으로 한 번에 설치한다.
