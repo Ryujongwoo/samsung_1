@@ -23,7 +23,8 @@ conda install -c conda-forge gradio
 
 아래의 라이브러리도 추가로 설치한다.  
 conda install -c conda-forge pytorch  
-conda install -c conda-forge ipywidgets
+conda install -c conda-forge ipywidgets  
+conda install -c conda-forge tqdm
 
 
 ## Pip 기반 패키지 및 LangChain 생태계 일괄 설치
