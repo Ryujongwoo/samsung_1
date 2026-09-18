@@ -9,7 +9,7 @@ conda install -c conda-forge numpy=1.26.4 faiss-cpu python-dotenv openpyxl pypdf
 위와 같이 한번에 설치할 때 아래와 같은 경고창이 화면에 나타나며 롤백되면 라이브러리를 한 개씩 설치한다.  
 
 <img src="./시작지점없음.png" />
-
+ 
 conda install -c conda-forge nbclassic  
 conda install -c conda-forge numpy=1.26.4  
 conda install -c conda-forge faiss-cpu  
