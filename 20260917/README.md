@@ -14,6 +14,9 @@ pip install "langchain>=0.3.0,<0.4.0" "langchain-core>=0.3.0,<0.4.0" "langchain-
 
 
 ## 시작 환경 없음 메시지 창이 실행되면서 롤백되면 아래와 같이 처리한 후 설치한다.
+
+<img src="./시작지점없음.png" />
+
 관련 라이브러리 패키지 재설치  
 문제가 발생하는 GDK 및 GLib 관련 패키지를 conda-forge 채널에서 최신 버전으로 재설치한다.
 
