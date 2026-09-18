@@ -13,7 +13,7 @@ LangChain 핵심 패키지와 모든 LLM 제공자 패키지를 pip으로 한 �
 pip install "langchain>=0.3.0,<0.4.0" "langchain-core>=0.3.0,<0.4.0" "langchain-community>=0.3.0,<0.4.0" "langchain-text-splitters>=0.3.0,<0.4.0" "langchain-experimental>=0.3.0,<0.4.0" "langchain-openai" "langchain-anthropic" "langchain-chroma" "langchain-huggingface" "langchain-ollama" "langchain-google-genai" "langchain-groq" "pydantic>=2.7.0,<3.0.0" "anthropic>=0.30.0" google-genai groq krag kiwipiepy rank_bm25 jq
 
 
-## 시작 환경 없음 메시지 창이 실행되면서 롤백되면 아래와 같이 처리한 후 설치한다.
+## nbclassic을 설치한 후 시작 환경 없음 메시지 창이 실행되면서 롤백되면 아래와 같이 처리한 후 설치한다.
 
 <img src="./시작지점없음.png" />
 
