@@ -19,5 +19,6 @@ pip install "langchain>=0.3.0,<0.4.0" "langchain-core>=0.3.0,<0.4.0" "langchain-
 
 conda install -c conda-forge gdk-pixbuf glib gettext --force-reinstall
 
-가상환경 내 전체 패키지 업데이트  
+가상환경 내 전체 패키지 업데이트
+
 conda update --all -c conda-forge
