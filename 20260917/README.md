@@ -12,3 +12,7 @@ LangChain 핵심 패키지와 모든 LLM 제공자 패키지를 pip으로 한 �
 
 pip install "langchain>=0.3.0,<0.4.0" "langchain-core>=0.3.0,<0.4.0" "langchain-community>=0.3.0,<0.4.0" "langchain-text-splitters>=0.3.0,<0.4.0" "langchain-experimental>=0.3.0,<0.4.0" "langchain-openai" "langchain-anthropic" "langchain-chroma" "langchain-huggingface" "langchain-ollama" "langchain-google-genai" "langchain-groq" "pydantic>=2.7.0,<3.0.0" "anthropic>=0.30.0" google-genai groq krag kiwipiepy rank_bm25 jq
 
+
+
+conda install -c conda-forge gdk-pixbuf glib gettext --force-reinstall
+
