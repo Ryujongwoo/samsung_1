@@ -21,7 +21,13 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 9월 21일 - 73일차
-
+① 05_고급검색기법.ipynb - 쿼리 확장, 재순위화, 맥락 압축 완료  
+② 06_주요_LLM_공급자_RAG_답변평가.ipynb - 데이터 불러오기, 검색기 만들기 시작  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith15.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith16.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ DocumentCompressorPipeline.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith17.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langSmith18.png
 
 # 2026년 9월 18일 - 72일차
 ① conda 가상환경에 라이브러리 설치하기  
