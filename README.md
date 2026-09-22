@@ -21,7 +21,7 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 9월 22일 - 74일차
-06_주요_LLM_공급자_RAG_답변평가.ipynb  
+① 06_주요_LLM_공급자_RAG_답변평가.ipynb - 주요 LLM 공급자 계속   
 &nbsp;&nbsp;&nbsp;&nbsp;■ claude.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ gemini.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ ollama_5.png  
