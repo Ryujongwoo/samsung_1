@@ -21,7 +21,11 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 9월 22일 - 74일차
-
+06_주요_LLM_공급자_RAG_답변평가.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;■ claude.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ gemini.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ ollama_5.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ groq.png
 
 # 2026년 9월 21일 - 73일차
 ① 05_고급검색기법.ipynb - 쿼리 확장, 재순위화, 맥락 압축 완료  
