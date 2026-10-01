@@ -8,6 +8,7 @@ https://us06web.zoom.us/j/86392843147?pwd=5EZDPMbx0n3jNKIAN6fuObzpa52Mxa.1
 https://repo.continuum.io/archive/.winzip/
 
 # 아나콘다 가상환경 설정은 20260819 폴더의 내용을 참조한다.
+# AI_RAG 라이브러리 설치는 20260917 폴더의 내용을 참조한다.
 
 # jupyter nbclassic 화면 설정 방법  
 C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있다.  
