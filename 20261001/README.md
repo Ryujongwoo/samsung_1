@@ -9,7 +9,7 @@ langgraph-checkpoint 라이브러리는 상태(State)를 지속 유지하거나 
 
 pip install "langgraph>=0.2.0,<0.3.0" "langgraph-checkpoint>=2.0.0" 
 
-# 라이브러리 설명
+# 설치한 라이브러리 설명
 
 ## AI & 데이터 처리
 
