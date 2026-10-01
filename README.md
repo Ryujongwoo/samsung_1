@@ -21,6 +21,9 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 10월 2일 - 78일차
+
+
 # 2026년 10월 1일 - 77일차(RAG 끝, LANGGRAPH 시작)
 ① 06_주요_LLM_공급자_RAG_답변평가.ipynb - RAG 답변 평가(QA Evaluation, Criteria Evaluation) 완료  
 ## LANGGRAPH
