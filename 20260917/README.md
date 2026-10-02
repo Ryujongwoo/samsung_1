@@ -27,7 +27,7 @@ conda install -c conda-forge pandas
 conda install -c conda-forge pytorch  
 conda install -c conda-forge ipywidgets  
 conda install -c conda-forge tqdm
-
+ 
 
 ## Pip 기반 패키지 및 LangChain 생태계 일괄 설치
 LangChain 핵심 패키지와 모든 LLM 제공자 패키지를 pip으로 한 번에 설치한다.
