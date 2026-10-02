@@ -23,11 +23,15 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 # 2026년 10월 2일 - 78일차
 
+② 01_도구호출_활용방법.ipynb - LangGraph 가상환경 설정, Tavily 도구 호출하기, 실행하기, 도구 호출 결과로 답변하기 계속  
+&nbsp;&nbsp;&nbsp;&nbsp;■ toolCalling2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ toolCalling3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ toolMessage.png
 
 # 2026년 10월 1일 - 77일차(RAG 끝, LANGGRAPH 시작)
 ① 06_주요_LLM_공급자_RAG_답변평가.ipynb - RAG 답변 평가(QA Evaluation, Criteria Evaluation) 완료  
 ## LANGGRAPH
-② 01_도구호출_활용방법.ipynb - LangGraph 가상환경 설정, Tavily 도구 사용하기 시작  
+② 01_도구호출_활용방법.ipynb - LangGraph 가상환경 설정, Tavily 도구 생성하기 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ toolCalling.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ tavily.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ tavily2.png  
