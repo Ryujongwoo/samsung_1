@@ -22,7 +22,9 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 10월 7일 - 80일차
-
+① 01_도구호출_활용방법.ipynb - LCEL 체인을 도구로 변환하기, @chain, @tool 데코레이터 사용하기, 벡터저장소를 도구로 변환하기 - 계속  
+&nbsp;&nbsp;&nbsp;&nbsp;■ restaurant_menu.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;■ restaurant_wine.txt
 
 # 2026년 10월 6일 - 79일차
 ① 01_도구호출_활용방법.ipynb - 사용자 정의 도구, Runnable 도구로 변환하기 - 계속  
