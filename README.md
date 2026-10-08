@@ -22,7 +22,10 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 10월 8일 - 81일차
-
+① 01_도구호출_활용방법.ipynb - 여러개의 도구 사용하기, Few-shot 프롬프트를 활용하여 도구 호출하기 - 계속  
+&nbsp;&nbsp;&nbsp;&nbsp;■ fewShot.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langChainAgent.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ langChainAgent2.png
 
 # 2026년 10월 7일 - 80일차
 ① 01_도구호출_활용방법.ipynb - LCEL 체인을 도구로 변환하기, @chain, @tool 데코레이터 사용하기, 벡터저장소를 도구로 변환하기 - 계속  
