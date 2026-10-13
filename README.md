@@ -23,6 +23,8 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 # 2026년 10월 13일 - 83일차
 
+① 02_LangGraph_Part1.ipynb - 조건부 앳지 종료  
+&nbsp;&nbsp;&nbsp;&nbsp;■ edgeBranching.png
 
 # 2026년 10월 12일 - 82일차
 ① 01_도구호출_활용방법.ipynb - 에이전트 만들기, 그라디오 챗봇 인터페이스 - 완료  
