@@ -22,7 +22,11 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 10월 14일 - 84일차
-
+① 03_LangGraph_Part2.ipynb - add 리듀서, custom 리듀서, MessageState - 계속  
+&nbsp;&nbsp;&nbsp;&nbsp;■ messageGraph.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ messageGraph2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ reducer.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ reducer2.png  
 
 # 2026년 10월 13일 - 83일차
 ① 02_LangGraph_Part1.ipynb - 조건부 앳지 종료  
