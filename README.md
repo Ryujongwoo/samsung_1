@@ -21,6 +21,9 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 10월 16일 - 86일차
+
+
 # 2026년 10월 15일 - 85일차
 ① 03_LangGraph_Part2.ipynb - MessageState, Feedback Loop - 완료    
 
