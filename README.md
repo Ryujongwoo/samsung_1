@@ -22,7 +22,10 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 10월 19일 - 87일차
-
+① 04_LangGraph_ReAct_에이전트.ipynb - ReAct 에이전트 계속  
+&nbsp;&nbsp;&nbsp;&nbsp;■ ReActAgent2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ ReActAgent3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ ReActAgent4.png  
 
 # 2026년 10월 16일 - 86일차
 ① 04_LangGraph_ReAct_에이전트.ipynb - ReAct 에이전트 시작  
