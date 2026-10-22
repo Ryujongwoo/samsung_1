@@ -22,17 +22,20 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 ***
 
 # 2026년 10월 22일 - 90일차
-
+① 05_LangGraph_다양한_에이전트.ipynb - Self RAG 계속  
+&nbsp;&nbsp;&nbsp;&nbsp;■ selfRAG.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ selfRAG2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;■ selfRAG3.png
 
 # 2026년 10월 21일 - 89일차
-① 05_LangGraph_다양한_에이전트.ipynb -  Adaptive 에이전트 계속  
+① 05_LangGraph_다양한_에이전트.ipynb -  Adaptive RAG 계속  
 &nbsp;&nbsp;&nbsp;&nbsp;■ HITL.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ HITL2.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ HITL3.png
 
 # 2026년 10월 20일 - 88일차
 ① 04_LangGraph_ReAct_에이전트.ipynb - ReAct 에이전트 종료  
-② 05_LangGraph_다양한_에이전트.ipynb - Adaptive 에이전트 시작  
+② 05_LangGraph_다양한_에이전트.ipynb - Adaptive RAG 시작  
 &nbsp;&nbsp;&nbsp;&nbsp;■ adaptiveRAG.png  
 &nbsp;&nbsp;&nbsp;&nbsp;■ adaptiveRAG2.png
 
