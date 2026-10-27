@@ -21,6 +21,9 @@ C:\사용자\\계정이름\\.jupyter 폴더에 쥬피터 노트북 설정이 있
 
 ***
 
+# 2026년 10월 27일 - 93일차
+
+
 # 2026년 10월 26일 - 92일차
 ① 05_LangGraph_다양한_에이전트.ipynb - subgraph 계속  
 &nbsp;&nbsp;&nbsp;&nbsp;■ CRAG.png  
